@@ -1,0 +1,166 @@
+{
+    "HOME":{
+        "TITLE":"Home",
+        "GREETING": "Welcome",
+        "EXIT":"Exit",
+        "NO_DATA":"No data",
+        "SUPPORT":"Support",
+        "OUT_OF_LOCAL":"Out of local",
+        "OK":"Ok",
+        "PRINTERS":"Printer(s)"
+    },
+    "SYSTEM":{
+        "REGISTER_ERROR":"Error when trying to register. Please try again later.",
+        "LOGIN_ERROR":"Incorrect email or password.",
+        "CREDITS":"All rights reserved.",
+        "SAVED":"Saved!",
+        "EXIT_QUESTION":"Logout?",
+        "CONFIRM":"Yes",
+        "CANCEL":"No",
+        "WAIT": "Wait",
+        "OK_STATUS": "Ok Status",
+        "SUPPORT_STATUS": "Support Status",
+        "OUT_STATUS": "Out of local Status",
+        "LANGUAGE": "Language: "
+    },
+    "LOGIN":{
+        "EMAIL":"Email",
+        "PASSWORD":"Password",
+        "LOGIN_BUTTON":"Enter",
+        "GREETING":"Welcome"
+    },
+    "SUPPLY_MENU":{
+        "TITLE":"Supplies Menu",
+        "SUPPLY":"Supplies",
+        "INPUT":"Input",
+        "OUTPUT":"Output",
+        "BALANCE":"Balance"
+    },
+    "SUPPLY":{
+        "TITLE":"Supplies",
+        "NEW":"New supply",
+        "QUANTITY":"Quantity"
+    },
+    "MAINTENANCE":{
+        "ACTIVE":"Active"
+    },
+    "SIDE_MENU":{
+        "HOME":"Home",
+        "PRINTERS":"Printers",
+        "SUPPLIES":"Supplies",
+        "PARAMETERS":"Parameters"
+    },
+    "INVOICE_INPUT":{
+        "TITLE":"Invoice input",
+        "NUMBER":"Number",
+        "DATE":"Date",
+        "ITEMS":"Items",
+        "QUANTITY":"Quantity",
+        "SUPPLY":"Supply"
+    },
+    "ACTION": {
+        "NEW": "New Action",
+        "EDIT": "Edit Action",
+        "PRINTER": "Printer",
+        "ACTION_TYPE": "Action type",
+        "SUPPLY": "Supply",
+        "DATE": "Date",
+        "SEARCH": "Actions"
+    },
+    "LOCAL":{
+        "TITLE":"Locals",
+        "NEW":"New local",
+        "EDIT":"Edit local"
+    },
+    "PARAMETERS":{
+        "TITLE":"Parameters",
+        "LOCAL":"Locals",
+        "STATUS":"Statuses",
+        "MODEL_PRINTER":"Printer models",
+        "USER":"Users",
+        "ACTION_TYPE": "Action types",
+        "REQUEST_TYPE": "Request types",
+        "EMAIL": "Email params",
+        "SYSTEM": "System params"
+    },
+    "STATUS":{
+        "TITLE":"Statuses",
+        "NEW":"New Status",
+        "EDIT":"Edit status",
+        "COLOR": "Color"
+    },
+    "PRINTER_MENU":{
+        "TITLE":"Printer Menu",
+        "PRINTERS":"Printers",
+        "ACTION": "Action",
+        "REQUESTS": "Requests"
+    },
+    "PRINTERS":{
+        "TITLE":"Printers"
+    },
+    "PRINTER":{
+        "NEW":"New Printer",
+        "EDIT":"Edit printer",
+        "SERIE_NUMBER":"Serie number",
+        "LOCAL":"Local",
+        "STATUS": "Status",
+        "PRINTER_MODEL": "Printer Model"
+    },
+    "SIMPLE_ENTITY":{
+        "DESCRIPTION":"Description"
+    },
+    "PRINTER_MODEL":{
+        "TITLE":"Printer Models",
+        "NEW":"New Printer model",
+        "EDIT":"Edit printer model"
+    },
+    "ACTION_TYPE":{
+        "TITLE":"Action Types",
+        "NEW":"New Action type",
+        "EDIT":"Edit Action type"
+    },
+    "REQUESTS":{
+        "TITLE": "Requests"
+    },
+    "REQUEST":{
+        "NEW": "New Request",
+        "EDIT": "Edit Request",
+        "PRINTER": "Printer",
+        "REQUEST_TYPE": "Request type",
+        "SUBJECT": "Subject",
+        "MAILTO": "Mail To",
+        "CREATE_ACTION": "Create action",
+        "ATTACHMENTS": "Attachments",
+        "EMAIL_SENDED": "Email sended",
+        "ACTION": "Action type",
+        "EMAIL_ERROR": "Seems like you don't have an email app. If you already had one, please check if you can send emails by him.",
+        "NEW_ATTACHMENTS": "new."
+    },
+    "REQUEST_TYPE":{
+        "NEW": "New request type",
+        "EDIT": "Edit request type",
+        "TITLE": "Request Types",
+        "COLOR": "Color"
+    },
+    "EMAIL":{
+        "RECIPIENTS": "Recipients",
+        "SUBJECTS": "Subjects",
+        "DESCS": "Descriptions",
+        "RECIPIENT": "Recipient",
+        "SUBJECT": "Subject",
+        "DESC": "Description",
+        "ADDRESS": "Default address",
+        "USE_ADDRESS": "Always send this address on request body?"
+    },
+    "USER":{
+        "NEW": "New user",
+        "EDIT": "Edit user",
+        "NAME": "Name",
+        "EMAIL": "Email",
+        "PASS": "Password",
+        "ASS": "Signature",
+        "RESET_PASS": "Reset password",
+        "RESET_MESSAGE": "An email has sent to the users email.",
+        "RESET_CONFIRM": "Are you shure to reset user password?"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "HOME":{
+        "TITLE":"Home",
+        "GREETING": "Bem-vindo",
+        "EXIT":"Sair",
+        "NO_DATA":"Sem dados",
+        "SUPPORT":"Suporte",
+        "OUT_OF_LOCAL":"Fora do local",
+        "OK":"Ok",
+        "PRINTERS":"Impressora(s)"
+    },
+    "SYSTEM":{
+        "REGISTER_ERROR":"Erro ao tetnar registrar. Por favor tente novamente depois.",
+        "LOGIN_ERROR":"Email ou senha icorretos.",
+        "CREDITS":"Todos os direitos reservados.",
+        "SAVED":"Salvo!",
+        "EXIT_QUESTION":"Sair?",
+        "CONFIRM":"Sim",
+        "CANCEL":"Não",
+        "WAIT": "Aguarde",
+        "OK_STATUS": "Status Ok",
+        "SUPPORT_STATUS": "Status Suporte",
+        "OUT_STATUS": "Status fora do local",
+        "LANGUAGE": "Idioma: "
+    },
+    "LOGIN":{
+        "EMAIL":"Email",
+        "PASSWORD":"Senha",
+        "LOGIN_BUTTON":"Entrar",
+        "GREETING":"Bem-vindo"
+    },
+    "SUPPLY_MENU":{
+        "TITLE":"Menu de suprimentos",
+        "SUPPLY":"Suprimentos",
+        "INPUT":"Entrada",
+        "OUTPUT":"Saída",
+        "BALANCE":"Balanço"
+    },
+    "SUPPLY":{
+        "TITLE":"Suprimentos",
+        "NEW":"Novo Suprimento",
+        "QUANTITY":"Quantidade"
+    },
+    "MAINTENANCE":{
+        "ACTIVE":"Ativo"
+    },
+    "SIDE_MENU":{
+        "HOME":"Home",
+        "PRINTERS":"Impressoras",
+        "SUPPLIES":"Suprimentos",
+        "PARAMETERS":"Parâmetros"
+    },
+    "INVOICE_INPUT":{
+        "TITLE":"Entrada de nota",
+        "NUMBER":"Número",
+        "DATE":"Data",
+        "ITEMS":"Itens",
+        "QUANTITY":"Quantidade",
+        "SUPPLY":"Suprimentos"
+    },
+    "ACTION": {
+        "NEW": "Nova ação",
+        "EDIT": "Editar ação",
+        "PRINTER": "Impressora",
+        "ACTION_TYPE": "Tipo de ação",
+        "SUPPLY": "Suprimento",
+        "DATE": "Data",
+        "SEARCH": "Ações"
+    },
+    "LOCAL":{
+        "TITLE":"Locais",
+        "NEW":"Novo local",
+        "EDIT":"Editar local"
+    },
+    "PARAMETERS":{
+        "TITLE":"Parâmetros",
+        "LOCAL":"Locais",
+        "STATUS":"Status",
+        "MODEL_PRINTER":"Modelos de impressora",
+        "USER":"Usuários",
+        "ACTION_TYPE": "Tipos de ação",
+        "REQUEST_TYPE": "Tipos de requisição",
+        "EMAIL": "Parâmetros de email",
+        "SYSTEM": "Parâmetros do sistema"
+    },
+    "STATUS":{
+        "TITLE":"Status",
+        "NEW":"Novo Status",
+        "EDIT":"Editar status",
+        "COLOR": "Cor"
+    },
+    "PRINTER_MENU":{
+        "TITLE":"Menu de impressora",
+        "PRINTERS":"Impressoras",
+        "ACTION": "Ações",
+        "REQUESTS": "Requisições"
+    },
+    "PRINTERS":{
+        "TITLE":"Impressoras"
+    },
+    "PRINTER":{
+        "NEW":"Nova impressora",
+        "EDIT":"Editar impressora",
+        "SERIE_NUMBER":"Número de série",
+        "LOCAL":"Local",
+        "STATUS": "Status",
+        "PRINTER_MODEL": "Modelo"
+    },
+    "SIMPLE_ENTITY":{
+        "DESCRIPTION":"Descrição"
+    },
+    "PRINTER_MODEL":{
+        "TITLE":"Modelos de impressora",
+        "NEW":"Novo modelo",
+        "EDIT":"Editar modelo"
+    },
+    "ACTION_TYPE":{
+        "TITLE":"Tipos de ação",
+        "NEW":"Novo tipo de ação",
+        "EDIT":"Editar tipo de ação"
+    },
+    "REQUESTS":{
+        "TITLE": "Requisições"
+    },
+    "REQUEST":{
+        "NEW": "Nova requisição",
+        "EDIT": "Editar requisição",
+        "PRINTER": "Impressora",
+        "REQUEST_TYPE": "Tipo de requisição",
+        "SUBJECT": "Assunto",
+        "MAILTO": "Enviar para",
+        "CREATE_ACTION": "Criar ação",
+        "ATTACHMENTS": "Anexos",
+        "EMAIL_SENDED": "Email enviado?",
+        "ACTION": "Tipo de ação",
+        "EMAIL_ERROR": "Parece que você não tem um aplicativo de email instalado. Se tiver, certifique-se de que pode enviar emails por ele.",
+        "NEW_ATTACHMENTS": "novo."
+    },
+    "REQUEST_TYPE":{
+        "NEW": "Novo Tipo de requisição",
+        "EDIT": "Editar Tipo de requisição",
+        "TITLE": "Tipos de requisição",
+        "COLOR": "Cor"
+    },
+    "EMAIL":{
+        "RECIPIENTS": "Endereços",
+        "SUBJECTS": "Assuntos",
+        "DESCS": "Descrições",
+        "RECIPIENT": "Endereço",
+        "SUBJECT": "Assunto",
+        "DESC": "Descrição",
+        "ADDRESS": "Endereço padrão",
+        "USE_ADDRESS": "Sempre enviar este endereço no corpo da requisição?"
+    },
+    "USER":{
+        "NEW": "Novo usuário",
+        "EDIT": "Editar usuário",
+        "NAME": "Nome",
+        "EMAIL": "Email",
+        "PASS": "Senha",
+        "ASS": "Assinatura",
+        "RESET_PASS": "Resetar senha",
+        "RESET_MESSAGE": "Um email foi enviado para o endereço cadastrado.",
+        "RESET_CONFIRM": "Tem certeza que quer resetar a senha?"
+    }
+}

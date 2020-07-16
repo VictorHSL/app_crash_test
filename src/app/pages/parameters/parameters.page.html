@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot='start'>
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>HOME.TITLE</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item lines="none" *ngFor="let b of buttons" routerDirection="forward" 
+      [routerLink]="">
+      <ion-icon slot="start" [name]="b.icon"></ion-icon>
+      <ion-label>{{b.title}}</ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>
